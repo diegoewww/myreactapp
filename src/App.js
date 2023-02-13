@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with JOYIT
+          Learn React with JOYIT DIEGO NINA PALACIOS
         </a>
       </header>
     </div>
